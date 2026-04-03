@@ -1,0 +1,10 @@
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.csproj.AssemblyReference.cache
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\MyPluginInfo.cs
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.AssemblyInfoInputs.cache
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.AssemblyInfo.cs
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.csproj.CoreCompileInputs.cache
+C:\Users\nicol\DeletePlugin\bin\Debug\net46\DeletePlugin.dll
+C:\Users\nicol\DeletePlugin\bin\Debug\net46\DeletePlugin.pdb
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.dll
+C:\Users\nicol\DeletePlugin\obj\Debug\net46\DeletePlugin.pdb

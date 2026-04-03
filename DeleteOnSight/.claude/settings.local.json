@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(dotnet build:*)",
+      "Bash(ilspycmd -l \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp-firstpass.dll\")",
+      "Bash(ilspycmd -t LargeWorldStreamer \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t UniqueIdentifier \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp-firstpass.dll\")",
+      "Bash(ilspycmd -t SaveLoadManager \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t UserStorage \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t UserStoragePC \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t PlatformUtils \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t PlatformServicesNull \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t EnableAchievements \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/BepInEx/plugins/EnableAchievements/EnableAchievements.dll\")",
+      "Bash(ilspycmd \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/BepInEx/plugins/EnableAchievements/EnableAchievements.dll\")",
+      "Bash(ilspycmd -t LargeWorldEntity \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t Constructable \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd -t Base \"G:/Program Files \\(x86\\)/Steam/steamapps/common/Subnautica/Subnautica_Data/Managed/Assembly-CSharp.dll\")",
+      "Bash(ilspycmd:*)"
+    ]
+  }
+}

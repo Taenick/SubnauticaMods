@@ -1,0 +1,21 @@
+Delete On Sight - Changelog
+============================
+
+v1.1.0
+  - Resource refunds for base pieces and constructable items (seats, lockers, etc.)
+  - Storage containers drop their contents before being deleted
+  - Items go to inventory first; excess drops ~3m in front of you
+  - Materials are added to inventory, or dropped in the world if inventory is full
+
+v1.0.0 
+  - Initial release
+  - Single target delete (DELETE key)
+  - Area delete for colliderless objects (ALT+DELETE)
+  - Console command (delete)
+  - Base piece force-removal with geometry rebuild
+  - Auto-cleanup of wall-mounted items in deleted rooms
+  - Vehicle deletion (Seamoth, Prawn Suit, Cyclops)
+  - Creature and world object deletion
+  - Terrain and player protection
+  - Configurable keybind and area radius
+  - Save persistence for all deletion types
