@@ -874,11 +874,11 @@
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\DeletePlugin\\DeletePlugin.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\repos\\SubnauticaMods\\DeleteOnSight\\DeletePlugin.csproj",
       "projectName": "DeletePlugin",
-      "projectPath": "C:\\Users\\nicol\\DeletePlugin\\DeletePlugin.csproj",
+      "projectPath": "C:\\Users\\nicol\\repos\\SubnauticaMods\\DeleteOnSight\\DeletePlugin.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\DeletePlugin\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\repos\\SubnauticaMods\\DeleteOnSight\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"

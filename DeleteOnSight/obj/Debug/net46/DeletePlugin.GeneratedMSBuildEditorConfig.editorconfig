@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = DeletePlugin
-build_property.ProjectDir = C:\Users\nicol\DeletePlugin\
+build_property.ProjectDir = C:\Users\nicol\repos\SubnauticaMods\DeleteOnSight\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

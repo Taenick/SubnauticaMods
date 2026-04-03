@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uveKzTWOHNM=",
+  "dgSpecHash": "qnSsG/1gexw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\DeletePlugin\\DeletePlugin.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\repos\\SubnauticaMods\\DeleteOnSight\\DeletePlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",

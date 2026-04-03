@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeletePlugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+32b45ae8436c0212a5695666d1be6fc27d8f07d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Delete On Sight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeletePlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]
