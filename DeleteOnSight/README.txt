@@ -6,7 +6,7 @@ Look at it. Delete it. No questions asked.
 FEATURES
 --------
 - Press DELETE to destroy whatever you're looking at (requires the object to have collision)
-- Press ALT+DELETE for area delete (5m radius) — use this for objects WITHOUT collision
+- Press ALT+DELETE for area delete (5m radius), use this for objects WITHOUT collision
   like small plants, cables, wreck decorations, and other visual-only objects
 - Type "delete" in the dev console for single target delete
 - Works on: base pieces, vehicles, creatures, world objects, wall-mounted items
@@ -52,13 +52,14 @@ PERSISTENCE
 - Base pieces and constructable items refund materials, but vehicles, creatures,
   and world objects do NOT return resources
 - Area delete does NOT refund resources or drop storage contents
-W  don't see them immediately
+- When inventory is full, items drop in front of you (~3m), look around if you
+  don't see them immediately
 - ALWAYS back up your save files before using this mod!
   Save location: Subnautica/SNAppData/SavedGames/
 - If you delete too much, reload your last save (save scum!)
-- Area delete (ALT+DELETE) removes ALL objects in the radius — aim carefully
+- Area delete (ALT+DELETE) removes ALL objects in the radius, aim carefully
 - Deleting base pieces that support other structures may cause visual glitches
-- This mod bypasses the game's safety checks — that's the point, but use responsibly
+- This mod bypasses the game's safety checks, that's the point, but use responsibly
 
 UNINSTALL
 ---------
