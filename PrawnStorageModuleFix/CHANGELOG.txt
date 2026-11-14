@@ -1,0 +1,22 @@
+PrawnStorageModuleFix Changelog
+================================
+
+v2.0.1 - 2026-04-12
+--------------------
+  - Fixed scrollbar viewport interfering with non-Prawn storage containers.
+  - Fixed storage UI position not restoring correctly after closing Prawn storage.
+  - Fixed viewport positioning when loading saves with high-capacity BVS modules.
+
+v2.0.0 - 2026-04-11
+--------------------
+  - Each storage module now adds 16 slots (matching the wiki), up from 6.
+  - Base storage is 16 slots in a uniform 8-wide grid (8x2).
+  - Added scrollbar when total storage exceeds 64 slots.
+  - Storage UI stays top-aligned with player inventory at all module counts.
+  - Added compatibility with Better Vehicle Storage mod (Mk2-Mk5 modules).
+  - Tiered module capacities stack correctly with vanilla modules.
+
+v1.0.0 - 2026-04-04
+--------------------
+  - Initial release.
+  - Fixes Prawn Suit storage modules not stacking beyond the first module.

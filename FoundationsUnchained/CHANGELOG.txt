@@ -1,0 +1,12 @@
+Foundations Unchained - Changelog
+==================================
+
+v1.0.0
+------
+- Initial release
+- Foundation rotation via mouse scroll wheel (90-degree increments)
+- Extended snap search range (configurable, default 40m)
+- Vertical offset control (PageUp/PageDown)
+- Free grid placement mode (F key toggle)
+- SnapBuilder compatibility
+- Full BepInEx configuration support

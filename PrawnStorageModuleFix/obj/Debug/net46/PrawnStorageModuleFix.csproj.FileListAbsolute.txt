@@ -1,0 +1,11 @@
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\bin\Debug\net46\PrawnStorageModuleFix.dll
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\bin\Debug\net46\PrawnStorageModuleFix.pdb
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.csproj.AssemblyReference.cache
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\MyPluginInfo.cs
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.AssemblyInfoInputs.cache
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.AssemblyInfo.cs
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.csproj.CoreCompileInputs.cache
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.sourcelink.json
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.dll
+C:\Users\nicol\repos\SubnauticaMods\PrawnStorageModuleFix\obj\Debug\net46\PrawnStorageModuleFix.pdb

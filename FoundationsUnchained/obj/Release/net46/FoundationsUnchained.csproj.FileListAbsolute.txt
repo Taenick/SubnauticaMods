@@ -1,0 +1,11 @@
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\bin\Release\net46\FoundationsUnchained.dll
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\bin\Release\net46\FoundationsUnchained.pdb
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.csproj.AssemblyReference.cache
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\MyPluginInfo.cs
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.AssemblyInfoInputs.cache
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.AssemblyInfo.cs
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.csproj.CoreCompileInputs.cache
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.sourcelink.json
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.dll
+C:\Users\nicol\repos\SubnauticaMods\FoundationsUnchained\obj\Release\net46\FoundationsUnchained.pdb
