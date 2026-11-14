@@ -25,6 +25,11 @@ Personal collection of Subnautica mods (BepInEx plugins).
 See each mod's own `README.txt` for full installation, configuration, and
 compatibility details. All mods require BepInEx 5.4.21 for Subnautica.
 
+## AI assistance
+
+Development of these mods was done with the help of AI coding assistance
+(Claude Code, Anthropic). All changes were tested in-game before release.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
